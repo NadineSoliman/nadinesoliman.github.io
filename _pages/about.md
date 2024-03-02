@@ -15,5 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Nadine, a fourth-year graduate student at Caltech working with Professor <a href="http://www.tapir.caltech.edu/~phopkins/Site/"> Phil Hopkins</a>. I am interested in a diverse range of topics related to the behavior and characteristics of dusty astrophysical environments. Using numerical simulations, I explore the influence of dust on the evolution of these environments and the observable clues it leaves behind. 
-. 
+Hi! I'm Nadine, a fourth-year graduate student at Caltech working with Professor <a href="http://www.tapir.caltech.edu/~phopkins/Site/"> Phil Hopkins</a>. I am interested in a diverse range of topics related to the behavior and characteristics of dusty astrophysical environments. Using numerical simulations, I explore the influence of dust on the evolution of these environments and the observable clues it leaves behind.
