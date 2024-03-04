@@ -25,18 +25,7 @@
       "area": "Astrophysics",
       "studyType": "PhD",
       "startDate": "2021-09-01",
-    }, 
-       {
-      "institution": "New York University Abu Dhabi, Abu Dhabi, UAE",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://nyuad.nyu.edu/en/",
-      "area": "Physics",
-      "studyType": " Bachelor of Science",
-      "startDate": "2017-09-01",
-       "endDate": "2017-09-01",
     }
-
-   
   ],
   "awards": [
    {
@@ -64,19 +53,15 @@
   "certificates": [
   ],
   "publications": [
-
   ],
   "skills": [
   ],
   "languages": [
   ],
   "interests": [
-    
   ],
   "references": [
-    
   ],
-  "projects": [
-    
+  "projects": [ 
   ]
 }
