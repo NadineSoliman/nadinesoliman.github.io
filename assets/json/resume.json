@@ -1,16 +1,14 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+ "basics": {
+    "name": "Nadine Soliman",
+    "label": "PhD Student in Astrophysics, Caltech",
+    "image": "prof_pic.jpg",
+    "email": "nsoliman@caltech.edu",
+    "url": "https://nadinesoliman.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1200 E California Blvd, MC 249-17",
+      "postalCode": "CA 91125",
+      "city": "Pasadena",
       "countryCode": "US",
       "region": "California"
     },
