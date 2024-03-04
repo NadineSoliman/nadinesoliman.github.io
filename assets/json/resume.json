@@ -21,92 +21,53 @@
     ]
   },
   "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "California Institute of Technology, California, USA",
+      "location": "California, USA",
+      "url": "https://www.caltech.edu/",
+      "area": "Astrophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-09-01",
+       "endDate": "current"
+    }, 
+       {
+      "institution": "New York University Abu Dhabi, Abu Dhabi, UAE",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://nyuad.nyu.edu/en/",
+      "area": "Physics",
+      "studyType": " Bachelor of Science",
+      "startDate": "2017-09-01",
+       "endDate": "2017-09-01",
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Keck Institute for Space Science Affiliate",
+      "date": "2023-01-01",
+      "awarder": "Keck Institute for Space Science",
+      "url": "https://kiss.caltech.edu/affiliates.html",
+      "summary": "Chosen by Caltech faculty, KISS Affiliates consist of graduate students and postdocs from the campus, acknowledged as potential leaders in space exploration."
+   }, 
+   {
+      "title": "NYUAD Post-graduate Research Fellowship",
+      "date": "2019-09-01",
+      "awarder": "New York University Abu Dhabi",
+      "url": "https://nyuad.nyu.edu/en/academics/undergraduate/undergraduate-research/post-graduation-research-fellowship.html",
+      "summary": "The research fellowship supports exceptional graduating seniors from NYUAD interested in academia with a prestigious one-year research opportunity at the university.'"
+    },
+   {
+      "title": "University Honors Scholar/ NYU Founders’ Day Award",
+      "date": "2019-05-01",
+      "awarder": "New York University",
+      "url": "https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html",
+      "summary": ""
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
@@ -185,13 +146,5 @@
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
