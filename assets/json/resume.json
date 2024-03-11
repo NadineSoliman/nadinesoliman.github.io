@@ -67,11 +67,23 @@
       "startDate": "2020-10-01",
       "endDate": "current"}, 
     {"name": "NYUAD Galaxy Formation Group | PI: Andrea Macciò ",
-      "summary": "Implementing and testing different black hole accretion sub-grid models in zoom-in galaxy formation simulations.",
+      "summary": "Implemented and tested different black hole accretion sub-grid models in zoom-in galaxy formation simulations.",
       "highlights": ["Implemented sub-grid black hole accretion models like the viscous disk and gravitational torque based accretion in the GASOLINE2 N-body code.",
         "Ran the NIHAO galaxy formation simulations to compare different black hole accretion models and constrain the models’ parameter space utilizing observational data sets.", 
         "Created a post-processing python algorithm to determine black hole accretion for galaxy simulations and implemented semi-analytic models to test hypotheses more efficiently and with faster algorithms."],
       "startDate": "2019-09-01",
-      "endDate": "2020-10-01"} 
+      "endDate": "2020-10-01"} , 
+    {"name": "NYUAD Exoplanet Group | PI: Ian Dobbs-Dixon ",
+      "summary": "Studied the effect of Kozai-Lidov oscillations on the 55 Cancri multi-body system.",
+      "highlights": ["Utilized the NINE orbital integration package to investigate the orbital stability of potential Earth-like planets within the habitable zone of 55 Cancri through running numerical simulations.",
+        "Reduced the computational time of the simulations while minimizing errors to study the system's long-term evolution.", 
+        "Determined the detectability of earth-like planets within the habitable zones of stars with giant planets by utilizing analytical solutions to provide maximum and root mean square values of radial velocity and astrometric signals."],
+      "startDate": "2019-05-01",
+      "endDate": "2020-05-01"} ,
+     {"name": "Max Planck Institute for Astronomy | PI: Andrea Macciò ",
+      "summary": "Studied redshift evolution of galaxy scaling relations.",
+      "highlights": ["Statistically modelled and analyzed the NIHAO galaxy population to probe the evolution of black hole - host galaxy scaling relations such as the Black Hole Mass - Sigma and Black Hole Mass - Bulge Mass relations."],
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01"}
   ]
 }
