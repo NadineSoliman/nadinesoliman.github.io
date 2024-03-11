@@ -59,5 +59,11 @@
     }
   ], 
   "research experience":[
+      {"name": "Hopkins Caltech Group | PI: Philip F Hopkins",
+      "summary": "Conducting radiation-magneto-hydrodynamics simulations with a focus on dusty fluid dynamics,employing the GIZMO
+code with explicit evolution of dust grain dynamics.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2020-10-01",
+      "endDate": "current"},
   ]
 }
