@@ -58,7 +58,7 @@
       "summary": ""
     }
   ], 
-  "research":[
+  "projects":[
       {"name": "Hopkins Caltech Group | PI: Philip F Hopkins",
       "summary": "Studying how dust impacts the properties and evolution of astrophysical environemnts.",
       "highlights": ["Conducting radiation-magneto-hydrodynamics simulations with a focus on dusty fluid dynamics, employing the GIZMO code with explicit evolution of dust grain dynamics.",
