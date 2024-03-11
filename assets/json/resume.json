@@ -65,6 +65,13 @@
         "Investigating the influence of dust on the dynamics and thermodynamic evolution of various astrophysical settings, including dusty active galactic nuclei tori and star-forming giant molecular clouds.", 
         "Running STARFORGE simulations of star formation processes to assess how different dust models influence star formation efficiency and the resulting properties of stars formed within the system."],
       "startDate": "2020-10-01",
-      "endDate": "current"}
+      "endDate": "current"}, 
+    {"name": "NYUAD Galaxy Formation Group | PI: Andrea Macciò ",
+      "summary": "Implementing and testing different black hole accretion sub-grid models in zoom-in galaxy formation simulations.",
+      "highlights": ["Implemented sub-grid black hole accretion models like the viscous disk and gravitational torque based accretion in the GASOLINE2 N-body code.",
+        "Ran the NIHAO galaxy formation simulations to compare different black hole accretion models and constrain the models’ parameter space utilizing observational data sets.", 
+        "Created a post-processing python algorithm to determine black hole accretion for galaxy simulations and implemented semi-analytic models to test hypotheses more efficiently and with faster algorithms."],
+      "startDate": "2019-09-01",
+      "endDate": "2020-10-01"} 
   ]
 }
