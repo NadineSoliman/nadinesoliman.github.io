@@ -60,8 +60,10 @@
   ], 
   "projects":[
       {"name": "Hopkins Caltech Group | PI: Philip F Hopkins",
-      "summary": "Conducting radiation-magneto-hydrodynamics simulations.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "summary": "Studying how dust impacts the properties and evolution of astrophysical environemnts.",
+      "highlights": ["Conducting radiation-magneto-hydrodynamics simulations with a focus on dusty fluid dynamics, employing the GIZMO code with explicit evolution of dust grain dynamics.",
+        "Investigating the influence of dust on the dynamics and thermodynamic evolution of various astrophysical settings, including dusty active galactic nuclei tori and star-forming giant molecular clouds.", 
+        "Running STARFORGE simulations of star formation processes to assess how different dust models influence star formation efficiency and the resulting properties of stars formed within the system."],
       "startDate": "2020-10-01",
       "endDate": "current"}
   ]
