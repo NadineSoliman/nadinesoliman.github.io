@@ -80,10 +80,20 @@
         "Determined the detectability of earth-like planets within the habitable zones of stars with giant planets by utilizing analytical solutions to provide maximum and root mean square values of radial velocity and astrometric signals."],
       "startDate": "2019-05-01",
       "endDate": "2020-05-01"} ,
-     {"name": "Max Planck Institute for Astronomy | PI: Andrea Macciò ",
-      "summary": "Studied redshift evolution of galaxy scaling relations.",
-      "highlights": ["Statistically modelled and analyzed the NIHAO galaxy population to probe the evolution of black hole - host galaxy scaling relations such as the Black Hole Mass - Sigma and Black Hole Mass - Bulge Mass relations."],
+     {"name": "Deutsches Elektronen-Synchrotron (DESY) | PI: Timo Karg ",
+      "summary": "Calibrated and tested silicon photomultipliers for the IceCube Neutrino Detector.",
+      "highlights": ["Worked across the engineering and physics IceCube teams to provide technical improvements of instrumentation through hardware testing and calibration of silicon photo-multipliers, detector readout boards and scintillation panels to be deployed to the IceCube Neutrino Observatory in the South Pole.", 
+      "Instructed a group of 4 students at NYUAD on experimental design, hardware integration and testing detectors.", 
+        "Implemented noise reduction, signal detection and performance stability algorithms to maximize performance"],
       "startDate": "2018-06-01",
-      "endDate": "2018-08-01"}
+      "endDate": "2018-08-01"},
+     {"name": "NYUAD Smart Materials Lab | PI: Panče Naumov ",
+      "summary": "Worked on characterizing the phase transition that gives rise to a crystal's thermosalient properties.",
+      "highlights": ["Employed analytical techniques and mathematical models to determine the structure of thermosalient benzoic crystals.", 
+      "Utilized methods of X-ray diffraction, Thermal Gravimetric analysis and Differential Scanning Calorimetry to characterize the nature of the crystal's thermal transition event."],
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01"}
   ]
 }
+
+
