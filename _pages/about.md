@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Astrophysics, Caltech
+subtitle: NASA Hubble Fellow at the Institute for Advanced Study
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,4 +17,8 @@ scholar:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Nadine, a fifth-year graduate student at Caltech working with Professor <a href="http://www.tapir.caltech.edu/~phopkins/Site/"> Phil Hopkins</a>. I am interested in a diverse range of topics related to the behavior and characteristics of dusty astrophysical environments. Using numerical simulations, I explore the influence of dust on the evolution of these environments and the observable clues it leaves behind.
+Hi, I’m Nadine Soliman. I’m a NASA Hubble Fellow at the Institute for Advanced Study, where I use numerical simulations to study how stars and planets form. My work focuses on how dust behaves in environments such as the interstellar medium, star-forming regions, and circumstellar and protoplanetary disks. By modeling dust more realistically instead of relying on simplified assumptions, I explore how small-scale physics influences cloud evolution, star formation efficiency, radiation and chemistry, and ultimately the properties of the stars that emerge.
+
+I also investigate how these same processes shape instabilities and turbulence within protoplanetary disks. Recently, I’ve been running GMC simulations with adaptive resolution refinement to capture disk formation around young stars and to study how disks naturally emerge and evolve in their native environments.
+
+Across all of this, my goal is to connect small-scale dust physics to the large-scale evolution of star and planet formation, and to understand how multiscale processes build structures ranging from individual disks to the stars and galaxies that follow.
