@@ -65,26 +65,5 @@
       "url": "https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html",
       "summary": ""
     }
-  ], 
-  "work":[
-      {"name": "Hopkins Caltech Group | PI: Philip F Hopkins",
-      "summary": "Studying how dust impacts the properties and evolution of astrophysical environemnts.",
-      "startDate": "2020-10-01",
-      "endDate": "current"}, 
-    {"name": "NYUAD Galaxy Formation Group | PI: Andrea Macciò ",
-      "summary": "Implemented and tested different black hole accretion sub-grid models in zoom-in galaxy formation simulations.",
-      "startDate": "2019-09-01",
-      "endDate": "2020-10-01"} , 
-    {"name": "NYUAD Exoplanet Group | PI: Ian Dobbs-Dixon ",
-      "summary": "Studied the effect of Kozai-Lidov oscillations on the 55 Cancri multi-body system.",
-      "startDate": "2019-05-01",
-      "endDate": "2020-05-01"} ,
-     {"name": "Deutsches Elektronen-Synchrotron (DESY) | PI: Timo Karg ",
-      "summary": "Calibrated and tested silicon photomultipliers for the IceCube Neutrino Detector.",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01"},
-     {"name": "NYUAD Smart Materials Lab | PI: Panče Naumov ",
-      "startDate": "2016-06-01",
-      "endDate": "2016-09-01"}
   ]
 }
